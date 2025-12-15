@@ -5,6 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Reflections.Displaying_fields_of_a_class</StartupObject>
   </PropertyGroup>
 
 </Project>
